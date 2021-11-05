@@ -1,5 +1,5 @@
-## DfinityAndroidSample
-##Android Native App connecting to the Internet Computer
+# DfinityAndroidSample
+# Android Native App connecting to the Internet Computer
 
 Nothing fancy, just HelloWorld native Android application calling query and update on the Internet Computer. 
 This application is using The Internet Computer Java Agent open source package
