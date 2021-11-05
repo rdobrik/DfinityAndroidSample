@@ -6,7 +6,7 @@ This application is using The Internet Computer Java Agent open source package
 
 <a href="https://github.com/rdobrik/dfinity-agent">
 https://github.com/rdobrik/dfinity-agent
-</href>
+</a>
 
 The code is in MainActivity.kt file, demonstrates how to create HTTP Transport, set arguments, call both query and update operations.
 Canister Motoko code is in main.mo file, to test it just copy and paste to Motoko Playground and deploy it. Then use canister id and url in strings.xml, modify canister and values.
